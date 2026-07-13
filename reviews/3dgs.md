@@ -2,7 +2,7 @@
 title: "3D Gaussian Splatting"
 permalink: /reviews/3dgs/
 layout: archive
-author_profile: false
+author_profile: true
 sidebar:
   nav: "paper-sidebar"
 ---
