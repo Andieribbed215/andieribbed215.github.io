@@ -33,6 +33,7 @@
 /* Post 본문 글자 크기 줄이기 */
 .page__content {
   p, li, dl {
-    font-size: 0.80em;   /* 원하는 크기로 조절 (기본값 1em) */
+    // font-size: 0.80em;   /* Sub별로 상대적으로 줄어듬!!, 원하는 크기로 조절 (기본값 1em) */
+    font-size: 0.85rem;   /* Sub별 상관 없음!!!em → rem으로 변경 */
   }
 }
