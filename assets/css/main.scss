@@ -1,0 +1,15 @@
+---
+---
+
+// font-size: 1em;     /* 작게 */
+// font-size: 1.2em;   /* 보통 */
+// font-size: 1.5em;   /* 크게 */
+
+@charset "utf-8";
+
+@import "minimal-mistakes";
+
+/* Recent Posts 아래 게시글 제목 */
+.archive__item-title {
+  font-size: 1em;     /* 작게 */
+}
