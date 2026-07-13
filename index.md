@@ -5,3 +5,5 @@ author_profile: True
 sidebar:
   nav: "paper-sidebar"
 ---
+
+![베짱이 처럼!](/assets/images/free.png)
