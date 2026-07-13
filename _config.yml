@@ -33,6 +33,19 @@ defaults:
       comments: false
       share: true
       related: true
+      
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      sidebar:
+        nav: "paper-sidebar"
+      read_time: true
+      comments: false
+      share: true
+      related: true
 
 category_archive:
   type: liquid
