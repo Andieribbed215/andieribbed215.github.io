@@ -12,6 +12,7 @@ locale: "ko-KR"
 
 author:
   name: "cmh9101"
+  avatar: "/assets/images/free.png"
   bio: "자동사냥을 위하여"
   location: "Seoul, Korea"
   links:
