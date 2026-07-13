@@ -27,7 +27,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      image: "/assets/images/fee.png"
       sidebar:
         nav: "paper-sidebar"
       read_time: true
