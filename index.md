@@ -6,4 +6,5 @@ sidebar:
   nav: "paper-sidebar"
 ---
 
-![베짱이 처럼!](/assets/images/free.png)
+![](/assets/images/free.png)
+베짱이 처럼!
