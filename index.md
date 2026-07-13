@@ -7,4 +7,4 @@ sidebar:
 ---
 
 ![](/assets/images/free.png)
-베짱이 처럼!
+!베짱이 처럼!
