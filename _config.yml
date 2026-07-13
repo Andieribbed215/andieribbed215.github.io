@@ -9,3 +9,12 @@ plugins:
   - jekyll-include-cache
 
 locale: "ko-KR"
+
+author:
+  name: "cmh9101"
+  bio: "뚱뚱뚱."
+  location: "Seoul, Korea"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/cmh9101"
