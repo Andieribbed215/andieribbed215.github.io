@@ -18,3 +18,12 @@
 .archive__item-excerpt {
   display: none;
 }
+
+
+/* 사이드바 아바타 크기 */
+.author__avatar {
+  img {
+    max-width: 175px;   /* 원하는 크기로 조절 (기본값 110px) */
+    border-radius: 0; /* 원형 대신 사각형으로 하려면 주석 해제 */
+  }
+}
