@@ -28,9 +28,6 @@ main:
 paper-sidebar:
   - title: "리뷰"
     children:
-      - title: "전체 리뷰"
-        url: /reviews/
-
       - title: "3D Gaussian Splatting"
         url: /reviews/3dgs/
 
