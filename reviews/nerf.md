@@ -7,7 +7,7 @@ sidebar:
   nav: "paper-sidebar"
 ---
 
-Neural Radiance Fields와 관련된 논문을 정리합니다.
+둥둥둥
 
 {% assign category_posts = site.categories["NeRF"] %}
 
