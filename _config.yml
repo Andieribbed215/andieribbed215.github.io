@@ -10,6 +10,9 @@ plugins:
 
 locale: "ko-KR"
 
+kramdown:
+  math_engine: null
+
 author:
   name: "cmh9101"
   avatar: "/assets/images/free.png"
