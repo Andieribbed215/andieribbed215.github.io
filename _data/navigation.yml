@@ -26,15 +26,18 @@ main:
 # 왼쪽 Sidebar Navigation
 # =========================================================
 paper-sidebar:
-  - title: "Reviews"
+  - title: "REVIEWS"
     children:
       - title: "3D Gaussian Splatting"
         url: /reviews/3dgs/
+        category: "3DGS"
 
       - title: "NeRF"
         url: /reviews/nerf/
+        category: "NeRF"
 
-  - title: "Research"
+  - title: "RESEARCH"
     children:
       - title: "전체 연구"
         url: /research/
+        category: "Research"
